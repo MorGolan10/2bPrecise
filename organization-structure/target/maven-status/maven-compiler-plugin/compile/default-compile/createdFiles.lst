@@ -1,0 +1,6 @@
+com\bPrecise\organizationstructure\model\Position.class
+com\bPrecise\organizationstructure\OrganizationStructureApplication.class
+com\bPrecise\organizationstructure\model\Task.class
+com\bPrecise\organizationstructure\model\Employee.class
+com\bPrecise\organizationstructure\model\Report.class
+com\bPrecise\organizationstructure\model\Manager.class
